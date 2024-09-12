@@ -2,7 +2,7 @@
 
 ## GitHub Actions
 
-[![Build and Tests](https://github.com/higorgoulart/HigorGoulartMassiroli-Turma02-Trabalho01/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/higorgoulart/HigorGoulartMassiroli-Turma02-Trabalho01/actions/workflows/node.js.yml)
+[![Build and Tests](https://github.com/higorgoulart/HigorGoulartMassiroli-Turma02-Trabalho01/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/higorgoulart/HigorGoulartMassiroli-Turma02-Trabalho01/actions/workflows/node.js.yml)
 
 ## SonarCloud
 
